@@ -1,4 +1,4 @@
-# Maven Toys Stoer Performance Analysis
+# Maven Toys Store Performance Analysis
 
 ## Table of Content 
 1. [Overview](#Overview)
